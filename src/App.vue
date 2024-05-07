@@ -84,7 +84,6 @@ function addOpperand(num) {
 
 .result {
   font-size: 3rem;
-  max-width: min-content;
   font-family: monospace;
   color: #f2e7dc;
   height: 1em;
